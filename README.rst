@@ -3,7 +3,9 @@ Polls
 =====
 
 
-[![Documentation Status](https://readthedocs.org/projects/django-polls/badge/?version=latest)](http://django-polls.readthedocs.org/en/latest/?badge=latest)
+.. image:: https://readthedocs.org/projects/django-polls/badge/?version=latest
+:target: http://django-polls.readthedocs.org/en/latest/?badge=latest
+:alt: Documentation Status
 
 
 Polls is a simple Django app to conduct Web-based polls. For each
