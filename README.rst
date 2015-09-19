@@ -2,6 +2,10 @@
 Polls
 =====
 
+
+[![Documentation Status](https://readthedocs.org/projects/django-polls/badge/?version=latest)](http://django-polls.readthedocs.org/en/latest/?badge=latest)
+
+
 Polls is a simple Django app to conduct Web-based polls. For each
 question, visitors can choose between a fixed number of answers.
 
